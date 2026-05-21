@@ -1,4 +1,3 @@
-syedmahran404/README.md
 
 <h1 align="center">Hi 👋, I'm Syed Mahran</h1>
 <h3 align="center">BCA Graduate | AI & Software Enthusiast | Building Real-World Projects</h3>
