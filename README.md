@@ -6,8 +6,7 @@
 </div>
 
 ---
-
-# 💫 About Me
+## <samp>// · whoami</samp>
 
 ```yaml
 Name: Syed Mahran
@@ -21,8 +20,18 @@ Focus:
   - Scalable APIs
 
 Current Project:
-  - FULLY OFFLINE AI ASSISTANT
- 
+- VELORA AI
+- Self-Learning Coding AI
+- Personal Tracking AI Assistant
+- AI Web Generator
+- Gesture AI System
+- Automation Tools
+- AI Experiments / LLM Integrations
+- Dynamic Business Website
+- College Hybrid Chatbot
+- Brain Tumor Detection System
+- Anti Ragging System
+- Ryhan Comforts Website
 
 Goal:
   - High Performance Software Engineer
@@ -38,57 +47,40 @@ Tech Interests:
 <br><br>
 
 ---
-
-# ⚒️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nodejs,fastapi,mysql,git,github,vscode&perline=7" />
-
-</div>
-
----
-
-# 🧠 Favorite Technologies
+## <samp>// · arsenal</samp>
 
 <div align="center">
 
-<table>
-<tr>
+<sub><samp>LANGUAGES</samp></sub>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" width="80"/><br><br>
-<b>Python</b>
-</td>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,r&theme=dark" alt="languages"/>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=react" width="80"/><br><br>
-<b>React</b>
-</td>
+<br/><br/>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=fastapi" width="80"/><br><br>
-<b>FastAPI</b>
-</td>
+<sub><samp>WORKFLOW · TOOLING</samp></sub>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=docker" width="80"/><br><br>
-<b>Docker</b>
-</td>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,nodejs,docker,vercel&theme=dark" alt="tools"/>
 
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="80"/><br><br>
-<b>Kubernetes</b>
-</td>
+<br/><br/>
 
-</tr>
-</table>
+<sub><samp>AI&nbsp;·&nbsp;ARCHITECTURE&nbsp;·&nbsp;AUTOMATION</samp></sub>
+
+<br/>
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-1C3C3C?style=flat-square)
+![Automation](https://img.shields.io/badge/AI%20Automation-22C55E?style=flat-square)
 
 </div>
 
+<br/>
+
 ---
 
-# 🚀 Featured Projects
+## <samp>// · featured projects</samp>
 
 <div align="center">
 
@@ -105,57 +97,65 @@ Tech Interests:
 
 ---
 
-# 🌐 Connect With Me
+## <samp>// 👀</samp>
 
 <div align="center">
-
-<a href="https://github.com/syedmahran">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="https://linkedin.com/in/syed-mahran-ai/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="mailto:syedmahran9742@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<a href="https://twitter.com/YOUR_HANDLE">
-<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=syedmahran404&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-AI%20SYSTEMS-8B5CF6?style=flat-square" alt="focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=flat-square" alt="status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BASED-INDIA-3B82F6?style=flat-square" alt="location"/>
 
 </div>
 
 ---
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ 07 · CURRENT FOCUS ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-# ⚡ Current Focus
-
-<div align="center">
+## <samp>// · current focus</samp>
 
 ```diff
-+ Building Advanced AI Systems
-+ Improving DSA & Backend Skills
-+ Exploring DevOps & Cloud
-+ Creating Production Ready Projects
++ deepening AI architecture: orchestration, memory, multi-agent flows
++ scaling VELORA into a fully modular AI platform
++ studying production-grade agentic ecosystems (OpenJarvis, OpenClaw, etc.)
++ refining AI-assisted development workflows with Cursor + Claude Code
++ exploring AI productivity tooling for developers and creators
+- nothing average. nothing recycled. nothing that doesn't compound.
 ```
 
-</div>
+<br/>
 
----
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ 08 · CONNECT ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-# 👀 Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=syedmahran404&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
+## <samp>// · connect</samp>
 
 <div align="center">
 
-## ⭐ "Code. Build. Improve. Repeat."
+<a href="mailto:syedmahran404@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+</a>
+&nbsp;
+<a href="https://github.com/syedmahran404">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/syedmahran/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+&nbsp;
+<a href="https://x.com/syedmahran">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="x"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/>
+</a>
+
+<br/><br/>
+
+<sub><samp>Open to collaborations on AI systems, agentic products and developer-tool startups.</samp></sub>
 
 </div>
+
+<br/>
