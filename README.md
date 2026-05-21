@@ -1,100 +1,159 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Syed Mahran</h1>
-<h3 align="center">BCA Graduate | AI & Software Enthusiast | Building Real-World Projects</h3>
+# <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> SYED MAHRAN
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<p align="center">
-Focused on AI systems, automation, full-stack development, and modern software workflows.
-Passionate about building practical solutions using coding + AI tools.
-</p>
-
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 BCA Graduate with **9 CGPA** and **zero backlogs**
-- 💻 Strong interest in **AI Architecture, Automation & Software Development**
-- ⚡ Experienced in building and experimenting with multiple AI-based projects
-- 🧠 Fast learner with strong practical problem-solving skills
-- 🔥 Comfortable working with modern AI development workflows and tools
+```yaml
+Name: Syed Mahran
+Role: AI & Software Developer
 
----
+Focus:
+  - Artificial Intelligence
+  - Full Stack Applications
+  - Backend Engineering
+  - Automation Systems
+  - Scalable APIs
 
-## 🛠️ Tech Stack & Tools
+Current Project:
+  - FULLY OFFLINE AI ASSISTANT
+ 
 
-### Languages
-`Python` `Java` `C` `C++` `JavaScript` `PHP` `HTML` `R`
+Goal:
+  - High Performance Software Engineer
+  - Building Real World AI Systems
 
-### Tools & Platforms
-`VS Code` `GitHub` `Cursor` `Claude Code` `Git` `AI Workflow Tools`
+Tech Interests:
+  - AI Agents
+  - Cloud
+  - DevOps
+  - System Design
+```
 
-### Interests
-- AI Architecture
-- Automation Systems
-- Full Stack Development
-- Generative AI
-- Prompt Engineering
-- Intelligent Web Applications
-
----
-
-## 📌 Featured Projects
-
-### 🤖 VELORA
-An AI-based system focused on modular architecture, intelligent workflows, and advanced integrations.
-
-### 🧠 Gesture AI
-Built an AI-powered gesture recognition project for interactive controls and smart input handling.
-
-### 🏥 Brain Tumor Detection
-Machine learning project focused on medical image analysis and tumor prediction.
-
-### 🎓 College Chatbot
-Developed a chatbot system designed to assist students with academic-related queries.
-
-### 🌐 AI Web Generator
-Created a prompt-based web generation system capable of generating websites dynamically.
-
-### 🛡️ Anti-Ragging System
-Built a digital platform focused on student safety and complaint handling.
-
-### 🪑 Ryhan Comforts
-Designed and developed a furniture business website showcasing products and services.
-
-### ⚙️ AI System Setup & Deployment
-Worked with open-source AI systems like **OpenJarvis** and **OpenClaw** — including setup, configuration, deployment workflows, testing, and environment management.
+<br><br>
 
 ---
 
-## 📈 What I Bring
+# ⚒️ Tech Arsenal
 
-✔️ Practical project experience  
-✔️ AI tool integration skills  
-✔️ Understanding of modern AI workflows  
-✔️ Fast adaptability to new technologies  
-✔️ Strong interest in building scalable systems  
-✔️ Consistency, discipline, and continuous learning mindset  
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nodejs,fastapi,mysql,git,github,vscode&perline=7" />
 
-## 🎯 Current Goal
-
-Seeking opportunities in:
-- Software Development
-- AI/ML Roles
-- Full Stack Development
-- Automation & AI Integration
-- Entry-Level Tech Roles
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🧠 Favorite Technologies
 
-- GitHub: *Your GitHub Link*
-- LinkedIn: *Your LinkedIn Link*
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python" width="80"/><br><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react" width="80"/><br><br>
+<b>React</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=fastapi" width="80"/><br><br>
+<b>FastAPI</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=docker" width="80"/><br><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="80"/><br><br>
+<b>Kubernetes</b>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-Building the future through code, AI, and continuous learning 🚀
-</p>
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 🤖 **VELORA AI** | Advanced AI assistant with memory & tools | Python, FastAPI |
+| 🌐 **Dynamic Website** | Modern responsive business site | React, Tailwind |
+| ⚡ **Automation Tools** | Productivity & workflow automation | Python |
+| 🧠 **AI Experiments** | LLM integrations & AI systems | AI APIs |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/syedmahran">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:syedmahran9742@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://twitter.com/YOUR_HANDLE">
+<img src="https://skillicons.dev/icons?i=twitter" width="55"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Current Focus
+
+<div align="center">
+
+```diff
++ Building Advanced AI Systems
++ Improving DSA & Backend Skills
++ Exploring DevOps & Cloud
++ Creating Production Ready Projects
+```
+
+</div>
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=syedmahran404&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ "Code. Build. Improve. Repeat."
+
+</div>
