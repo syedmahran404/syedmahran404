@@ -94,8 +94,10 @@ Tech Interests:
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤖 **VELORA AI** | Advanced AI assistant with memory & tools | Python, FastAPI |
-| 🌐 **Dynamic Website** | Modern responsive business site | React, Tailwind |
+| 🤖 *AI Experiments* | LLM integrations, prompt workflows & AI-native system exploration | AI APIs |
+| 🌐 *Automation Tools* | Productivity-focused automation utilities & workflow optimization systems | Python |
+| 🔥 **VELORA AI** | Advanced AI assistant with memory & tools | Python, FastAPI |
+| 🧪 **Dynamic Website** | Modern responsive business site | React, Tailwind |
 | ⚡ **Automation Tools** | Productivity & workflow automation | Python |
 | 🧠 **AI Experiments** | LLM integrations & AI systems | AI APIs |
 
