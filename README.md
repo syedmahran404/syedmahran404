@@ -111,7 +111,7 @@ Tech Interests:
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/syed-mahran-ai/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
