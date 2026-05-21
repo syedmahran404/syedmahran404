@@ -132,7 +132,7 @@ Tech Interests:
 
 <div align="center">
 
-<a href="mailto:syedmahran404@gmail.com">
+<a href="mailto:syedmahran9742@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
 </a>
 &nbsp;
@@ -140,8 +140,8 @@ Tech Interests:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/syedmahran/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/syed-mahran-ai">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt=""/>
 </a>
 &nbsp;
 <a href="https://x.com/syedmahran">
