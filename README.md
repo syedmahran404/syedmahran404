@@ -86,12 +86,14 @@ Tech Interests:
 
 | Project | Description | Tech |
 |---|---|---|
+| 🧠 **REPO-HEAL** | Autonomous AI repository analysis & self-healing platform for intelligent debugging, retrieval & safe patch generation | Python, FastAPI, AI Systems |
 | 🤖 *AI Experiments* | LLM integrations, prompt workflows & AI-native system exploration | AI APIs |
 | 🌐 *Automation Tools* | Productivity-focused automation utilities & workflow optimization systems | Python |
 | 🔥 **VELORA AI** | Advanced AI assistant with memory & tools | Python, FastAPI |
 | 🧪 **Dynamic Website** | Modern responsive business site | React, Tailwind |
 | ⚡ **Automation Tools** | Productivity & workflow automation | Python |
 | 🧠 **AI Experiments** | LLM integrations & AI systems | AI APIs |
+
 
 </div>
 
