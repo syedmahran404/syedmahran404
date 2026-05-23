@@ -87,13 +87,12 @@ Tech Interests:
 | Project | Description | Tech |
 |---|---|---|
 | 🧠 **REPO-HEAL** | Autonomous AI repository analysis & self-healing platform for intelligent debugging, retrieval & safe patch generation | Python, FastAPI, AI Systems |
-| 🤖 *AI Experiments* | LLM integrations, prompt workflows & AI-native system exploration | AI APIs |
-| 🌐 *Automation Tools* | Productivity-focused automation utilities & workflow optimization systems | Python |
-| 🔥 **VELORA AI** | Advanced AI assistant with memory & tools | Python, FastAPI |
-| 🧪 **Dynamic Website** | Modern responsive business site | React, Tailwind |
-| ⚡ **Automation Tools** | Productivity & workflow automation | Python |
-| 🧠 **AI Experiments** | LLM integrations & AI systems | AI APIs |
-
+| 🤖 **Self Learning Coding AI** | Advanced autonomous coding AI system with repository intelligence, memory, debugging workflows & AI-assisted software engineering capabilities | Python, FastAPI, AI Agents |
+| 📊 **Personal Tracking AI Assistant** | AI-powered productivity & personal tracking assistant with intelligent insights, memory systems, workflow management & automation features | Python, AI Systems, Automation |
+| 🔥 **VELORA AI** | Advanced AI assistant with memory, tools, contextual reasoning & intelligent workflow automation | Python, FastAPI, AI Tools |
+| ⚡ **Automation Tools** | Productivity-focused automation utilities, workflow optimization systems & smart task automation solutions | Python, Automation |
+| 🧪 **AI Experiments** | Experimental AI systems, LLM integrations, prompt workflows & AI-native architecture exploration | AI APIs, LLM Systems |
+| 🌐 **Dynamic Website (Ryhan Comforts)** | Modern responsive business website with optimized UI/UX, clean design & scalable frontend architecture | React, Tailwind, Frontend |
 
 </div>
 
