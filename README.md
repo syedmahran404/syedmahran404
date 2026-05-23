@@ -20,6 +20,7 @@ Focus:
   - Scalable APIs
 
 Current Project:
+- RepoHeal
 - VELORA AI
 - Self-Learning Coding AI
 - Personal Tracking AI Assistant
